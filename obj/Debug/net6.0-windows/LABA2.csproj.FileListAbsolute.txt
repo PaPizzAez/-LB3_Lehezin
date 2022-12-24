@@ -1,0 +1,17 @@
+C:\Users\dziar\Desktop\LABA2\bin\Debug\net6.0-windows\LABA2.exe
+C:\Users\dziar\Desktop\LABA2\bin\Debug\net6.0-windows\LABA2.deps.json
+C:\Users\dziar\Desktop\LABA2\bin\Debug\net6.0-windows\LABA2.runtimeconfig.json
+C:\Users\dziar\Desktop\LABA2\bin\Debug\net6.0-windows\LABA2.dll
+C:\Users\dziar\Desktop\LABA2\bin\Debug\net6.0-windows\ref\LABA2.dll
+C:\Users\dziar\Desktop\LABA2\bin\Debug\net6.0-windows\LABA2.pdb
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.csproj.AssemblyReference.cache
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.Screen.resources
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.csproj.GenerateResource.cache
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.AssemblyInfoInputs.cache
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.AssemblyInfo.cs
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.csproj.CoreCompileInputs.cache
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.dll
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\ref\LABA2.dll
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.pdb
+C:\Users\dziar\Desktop\LABA2\obj\Debug\net6.0-windows\LABA2.genruntimeconfig.cache

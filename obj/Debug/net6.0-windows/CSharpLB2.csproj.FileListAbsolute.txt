@@ -1,0 +1,17 @@
+D:\Projects\VS\CSharpLB2\bin\Debug\net6.0-windows\CSharpLB2.exe
+D:\Projects\VS\CSharpLB2\bin\Debug\net6.0-windows\CSharpLB2.deps.json
+D:\Projects\VS\CSharpLB2\bin\Debug\net6.0-windows\CSharpLB2.runtimeconfig.json
+D:\Projects\VS\CSharpLB2\bin\Debug\net6.0-windows\CSharpLB2.dll
+D:\Projects\VS\CSharpLB2\bin\Debug\net6.0-windows\ref\CSharpLB2.dll
+D:\Projects\VS\CSharpLB2\bin\Debug\net6.0-windows\CSharpLB2.pdb
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.csproj.AssemblyReference.cache
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.MainWindow.resources
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.csproj.GenerateResource.cache
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.AssemblyInfoInputs.cache
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.AssemblyInfo.cs
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.csproj.CoreCompileInputs.cache
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.dll
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\ref\CSharpLB2.dll
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.pdb
+D:\Projects\VS\CSharpLB2\obj\Debug\net6.0-windows\CSharpLB2.genruntimeconfig.cache
